@@ -1,4 +1,4 @@
-# zip
+# CAR zip file extractor
 
 It's a simple project to extract zip files from CAR (Cadastro Ambiental Rural). You can access the files by cities on the site: .............
 
